@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Dungeon_TheLostTemple</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <ApplicationIcon>dungeon_tree_mode.ico</ApplicationIcon>
+    <Authors>ArveksVeden</Authors>
+    <Company>Hop-Hop.inc</Company>
+    <Copyright>ArveksVeden | Hop-Hop.inc</Copyright>
+    <PackageIcon>dungeon_tree_mode.jpeg</PackageIcon>
+    <PackageIconUrl />
+    <PackageTags>#dungeon_the_lost_temple #project_work #viusal_basic_net</PackageTags>
+    <Description>Presented the first full version of the game project "Dungeon. The Lost Temple", which is being developed by the studio  "Hop-Hop.inc". This version is the first of the three planned in the development of the project.</Description>
+    <PackageReleaseNotes>The first full-fledged release of the project "Dungeon. The Lost Temple"</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\arvek\Downloads\dungeon_tree_mode.jpeg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
