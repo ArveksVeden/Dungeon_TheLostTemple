@@ -1,0 +1,9 @@
+player_coins = 25
+inventory = NULL,NULL,NULL,NULL,NULL,NULL
+done_chapters = 0,0,0
+done_levels_from_chapter_1 = 0,0,0,0
+done_levels_from_chapter_2 = 0,0,0,0
+done_levels_from_chapter_3 = 0,0,0,0
+done_tasks = 0,0,0,0,0,0,0,0,0,0,0,0
+f_t_d_t = 0,0,0,0,0,0,0,0,0,0,0,0
+kingdom_of_snails = False

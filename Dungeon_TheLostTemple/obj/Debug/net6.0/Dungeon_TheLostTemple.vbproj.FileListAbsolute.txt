@@ -1,0 +1,15 @@
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\bin\Debug\net6.0\Dungeon_TheLostTemple.exe
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\bin\Debug\net6.0\Dungeon_TheLostTemple.deps.json
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\bin\Debug\net6.0\Dungeon_TheLostTemple.runtimeconfig.json
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\bin\Debug\net6.0\Dungeon_TheLostTemple.dll
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\bin\Debug\net6.0\ref\Dungeon_TheLostTemple.dll
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\bin\Debug\net6.0\Dungeon_TheLostTemple.pdb
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.vbproj.AssemblyReference.cache
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.GeneratedMSBuildEditorConfig.editorconfig
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.AssemblyInfoInputs.cache
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.AssemblyInfo.vb
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.vbproj.CoreCompileInputs.cache
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.dll
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\ref\Dungeon_TheLostTemple.dll
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.pdb
+D:\MainArchive\DataStore\SeventhBlock\Dungeon_TheLostTemple\Dungeon_TheLostTemple\Dungeon_TheLostTemple\obj\Debug\net6.0\Dungeon_TheLostTemple.genruntimeconfig.cache
