@@ -1,4 +1,4 @@
-﻿Imports System.IO
+Imports System.IO
 Imports System.Text
 Module Module1
     'Глобальные данные
@@ -40,7 +40,6 @@ Module Module1
                 "kingdom_of_snails = "
             }
     Dim first_time_done_tasks(11) As Boolean
-    Dim past_games(1) As Boolean
     Dim kingdom_of_snails As Boolean
     Sub Check_tasks_for_complete()
 
@@ -350,19 +349,13 @@ Module Module1
 
         Dim rndNum As Integer
 
-        If past_games(0) = True And past_games(1) = True Then
-            Return gameModesList(1)
-        ElseIf past_games(0) = False And past_games(1) = False Then
-            Return gameModesList(0)
-        Else
-            Randomize()
-            rndNum = Rnd() * (1 - 0) + 0
+        Randomize()
+        rndNum = Rnd() * (1 - 0) + 0
 
-            If rndNum = 1 Then
-                Return gameModesList(1)
-            Else
-                Return gameModesList(0)
-            End If
+        If rndNum = 1 Then
+            Return gameModesList(1)
+        Else
+            Return gameModesList(0)
         End If
     End Function
     Function DisplayingDialogBox(dialogBoxName As String) As String()
